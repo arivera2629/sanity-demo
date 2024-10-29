@@ -8,7 +8,7 @@ export default defineConfig({
   title: 'sanity-demo',
 
   projectId: 'ssy22vff',
-  dataset: 'production',
+  dataset: 'development',
 
   plugins: [structureTool(), visionTool()],
 
